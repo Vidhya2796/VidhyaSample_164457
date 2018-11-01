@@ -1,2 +1,3 @@
-#My Sample app
-this is my sample app created my using tutorial
+#MySampleApp
+
+This is my sample app created my using tutorial
